@@ -1,4 +1,4 @@
-<h1 align="left">Welcome to my profile 🫡</h1>
+<h1 align="left">👋 Hi, I'm Gustavo Castilho, welcome to my profile!</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I play EAFC 26</p>
+<p align="left">I'm 16 years old and currently studying Systems Development Technician at SENAI 1.34.<br>I have a strong curiosity about technology and I'm always eager to learn new tools, programming languages, and concepts. I enjoy exploring how systems work behind the scenes and constantly improving my skills as a developer.<br><br>I'm focused on growing in the tech field, building practical projects, and expanding my knowledge every day.<br><br>🚀 Always learning. Always building.</p>
 
 ###
 
