@@ -1,7 +1,5 @@
 # 👋 Olá, eu sou o Gustavo Meireles!
 
-> Perfil criado especialmente para o acompanhamento e projetos do curso de **Desenvolvimento de Sistemas** no **SENAI Paulo Antonio Skaf**.
-
 ---
 
 ## 📌 Sobre Mim
@@ -37,7 +35,6 @@
 ### 🐧 Sistemas Operacionais & Hardware
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ### 🎨 Design, Produtividade & IDEs
