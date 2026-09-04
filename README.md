@@ -17,7 +17,7 @@
 - 📊 **Excel Básico** — *SENAI*
 - ♻️ **Fundamentos e Ações da Economia Circular** — *SENAI*
 - 🤖 **Ética na Inteligência Artificial** — *SENAI*
-- 🌐 **Inglês Fluente** — *Cultural Norte Americano - São Paulo*
+- 🌐 **Inglês** — *Cultural Norte Americano*
 
 ---
 
